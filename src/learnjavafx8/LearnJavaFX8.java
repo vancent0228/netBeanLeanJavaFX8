@@ -36,7 +36,7 @@ public class LearnJavaFX8 extends Application {
         
         Scene scene = new Scene(root, 300, 250);
         
-        primaryStage.setTitle("Hello World! deom1");
+        primaryStage.setTitle("Hello World! deom2");
         primaryStage.setScene(scene);
         primaryStage.show();
     }
